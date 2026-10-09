@@ -95,22 +95,8 @@ Flask • FastAPI • PostgreSQL • Redis
 Docker • Podman • NGINX • Linux (RHEL/Ubuntu)  
 
 
-
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatdurga&show_icons=true&theme=tokyonight&count_private=true" alt="Venkat's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatdurga&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Let's Connect!
-
+*   💼 **website:** [venkatadurgakondepudi](https://venkatadurgak.themrclub.in)
 *   💼 **LinkedIn:** [linkedin.com/in/venkata-durga-kondepudi-17bb5a1a4](https://linkedin.com/in/venkata-durga-kondepudi-17bb5a1a4)
 *   💻 **GitHub:** [github.com/venkatdurga](https://github.com/venkatdurga)
 *   📧 **Email:** venkatdurgakondepudi@gmail.com
