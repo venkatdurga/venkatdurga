@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C14"/>
+      <stop offset="50%" stop-color="#0D1527"/>
+      <stop offset="100%" stop-color="#090E18"/>
+    </linearGradient>
+
+    <!-- Neon Cyan / Blue Glow -->
+    <radialGradient id="glowTopRight" cx="85%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#00D4AA" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#00D4AA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBottomLeft" cx="15%" cy="85%" r="60%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#00D4AA" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <!-- Name Text Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#E2E8F0"/>
+      <stop offset="100%" stop-color="#00D4AA"/>
+    </linearGradient>
+
+    <!-- Subtitle Gradient -->
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="cyberGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.5"/>
+      <circle cx="28" cy="28" r="0.8" fill="#38BDF8" fill-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Card with Rounded Corners -->
+  <rect width="850" height="220" rx="16" fill="url(#bgGrad)"/>
+  <rect width="850" height="220" rx="16" fill="url(#cyberGrid)"/>
+  <rect width="850" height="220" rx="16" fill="url(#glowTopRight)"/>
+  <rect width="850" height="220" rx="16" fill="url(#glowBottomLeft)"/>
+
+  <!-- Glowing Border -->
+  <rect x="0.75" y="0.75" width="848.5" height="218.5" rx="15.25" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Top Status Badge -->
+  <g transform="translate(36, 32)">
+    <rect width="250" height="26" rx="13" fill="#0F172A" stroke="#00D4AA" stroke-width="0.8" stroke-opacity="0.4"/>
+    <circle cx="14" cy="13" r="4.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="17" fill="#6EE7B7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.8">AI/ML &bull; COMPUTER VISION &bull; FORWARD DEPLOYED</text>
+  </g>
+
+  <!-- Right Decorative Terminal Dots -->
+  <g transform="translate(778, 38)">
+    <circle cx="0" cy="0" r="4" fill="#EF4444" opacity="0.8"/>
+    <circle cx="15" cy="0" r="4" fill="#F59E0B" opacity="0.8"/>
+    <circle cx="30" cy="0" r="4" fill="#10B981" opacity="0.8"/>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="36" y="106" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="0.5">
+    Kondepudi Venkata Durga
+  </text>
+
+  <!-- Subtitle -->
+  <text x="36" y="136" fill="url(#subGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0.3">
+    Computer Vision &bull; Real-Time Anti-Spoofing &bull; Scaled Production Inference &bull; Edge AI
+  </text>
+
+  <!-- Metric Pills / Badges Strip at Bottom -->
+  <g transform="translate(36, 164)">
+    <!-- Pill 1: Scale -->
+    <g transform="translate(0, 0)">
+      <rect width="180" height="28" rx="8" fill="#131C31" stroke="#1E293B" stroke-width="1"/>
+      <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Citizens Served: <tspan fill="#38BDF8" font-weight="700">23M+ (22 States)</tspan></text>
+    </g>
+
+    <!-- Pill 2: Images Processed -->
+    <g transform="translate(190, 0)">
+      <rect width="175" height="28" rx="8" fill="#131C31" stroke="#1E293B" stroke-width="1"/>
+      <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Images Processed: <tspan fill="#00D4AA" font-weight="700">8.7M+</tspan></text>
+    </g>
+
+    <!-- Pill 3: Production Latency -->
+    <g transform="translate(375, 0)">
+      <rect width="165" height="28" rx="8" fill="#131C31" stroke="#1E293B" stroke-width="1"/>
+      <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Real-Time Latency: <tspan fill="#A78BFA" font-weight="700">&lt; 200ms</tspan></text>
+    </g>
+
+    <!-- Pill 4: Awards -->
+    <g transform="translate(550, 0)">
+      <rect width="224" height="28" rx="8" fill="#131C31" stroke="#1E293B" stroke-width="1"/>
+      <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Recognition: <tspan fill="#FBBF24" font-weight="700">3x National Tech Awards</tspan></text>
+    </g>
+  </g>
+</svg>
+

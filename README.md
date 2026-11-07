@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Kondepudi%20Venkata%20Durga&text2=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Forward%20Deployed&width=850&height=200" alt="Venkata Durga Banner"/>
+  <img src="./header.svg" width="100%" alt="Kondepudi Venkata Durga — AI/ML Engineer" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ I am an **AI/ML Engineer** specializing in **Computer Vision, Deep Learning, and
 - 🔭 **What I Build:** High-throughput computer vision pipelines, multi-signal facial anti-spoofing systems, low-latency OCR engines, and edge-deployable multimodal assistants.
 - 🏢 **Scale & Real-World Impact:** Architected and deployed vision microservices serving **23M+ citizens** across 22 Indian states, handling **400K+ daily API transactions** with rock-solid fault tolerance.
 - 🎯 **Current Focus:** Real-time facial anti-spoofing validation, multi-stage ANPR pipelines, financial NLP forecasting, and offline edge RAG architectures.
-- 📍 **Open To Opportunities:** **AI/ML Engineer, Computer Vision & Forward Deployed roles** in **Bengaluru / Hyderabad / Remote India**.
+- 📍 **Open To Opportunities:** **AI/ML Engineer, Computer Vision & Forward Deployed roles** &mdash; **Hyderabad / Remote Worldwide** (Currently in Bhubaneswar).
 
 <br/>
 
@@ -50,7 +50,7 @@ I am an **AI/ML Engineer** specializing in **Computer Vision, Deep Learning, and
 profile:
   name: "Kondepudi Venkata Durga"
   role: "AI/ML Engineer | Computer Vision & Forward Deployed"
-  location: "Bengaluru / Hyderabad / Remote India"
+  location: "Hyderabad / Remote Worldwide (Currently in Bhubaneswar)"
   experience: "2+ Years in Production AI/ML & Scaled Systems"
   core_strengths:
     - "Production Computer Vision & Multi-Stream CNNs"
@@ -116,13 +116,17 @@ profile:
         <li><b>My Role:</b> Architected the end-to-end anti-spoofing verification engine, facial analysis pipeline, FastAPI service, and containerized deployment.</li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p><a href="https://github.com/venkatdurga/Idetect"><b>📂 View Public Codebase &rarr;</b></a></p>
+      <p>
+        <a href="https://idetect-liveliness.netlify.app/" target="_blank"><b>🌐 View Live Demo &rarr;</b></a> &bull;
+        <a href="https://github.com/venkatdurga/Idetect" target="_blank"><b>📂 View Public Codebase &rarr;</b></a>
+      </p>
     </td>
     <!-- SmartTradeAI -->
     <td width="50%" valign="top">
@@ -181,20 +185,19 @@ profile:
   <!-- MedAura & TransBot -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://medaura-app.onrender.com/">MedAura — Multilingual Voice AI Assistant</a></h3>
-      <p><b>Live Healthcare Platform</b> • Multilingual voice-driven clinical triage assistant and automated appointment booking system.</p>
+      <h3>🏥 MedAura — Multilingual Voice AI Assistant</h3>
+      <p><b>Healthcare AI System</b> • Multilingual voice-driven clinical triage assistant and automated appointment booking system.</p>
       <ul>
         <li><b>Dual-Path STT:</b> Cloud Groq Whisper / local faster-whisper routing with fallback for speech-to-text in multiple regional languages.</li>
-        <li><b>Clinical Triage:</b> MedGemma & Gemini symptom intake, automated severity assessment, gTTS audio synthesis, and live clinic scheduling.</li>
+        <li><b>Clinical Triage:</b> MedGemma & Gemini symptom intake, automated severity assessment, gTTS audio synthesis, and clinic scheduling.</li>
         <li><b>My Role:</b> Built the speech-to-text pipeline, multi-language translation layers, and the FastAPI assistant backend.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Groq%20Whisper-F55036?style=flat-square" />
         <img src="https://img.shields.io/badge/MedGemma-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square" />
+        <img src="https://img.shields.io/badge/gTTS-4285F4?style=flat-square" />
       </p>
-      <p><a href="https://medaura-app.onrender.com/"><b>🌐 View Live Application &rarr;</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 TransBot — Offline Transport AI Assistant</h3>
@@ -311,5 +314,5 @@ I am actively open to discussing **AI/ML Engineer, Computer Vision Engineer, and
 </p>
 
 <p align="center">
-  <i>📍 Based in Bengaluru / Hyderabad / Remote India &bull; Always excited to build low-latency computer vision systems and scalable production AI.</i>
+  <i>📍 Currently in Bhubaneswar &bull; Open for Hyderabad / Remote Worldwide &bull; Always excited to build low-latency computer vision systems and scalable production AI.</i>
 </p>
