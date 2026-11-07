@@ -59,7 +59,7 @@
     <circle cx="14" cy="13" r="4.5" fill="#10B981">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="26" y="17" fill="#6EE7B7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.8">AI/ML &bull; COMPUTER VISION &bull; FORWARD DEPLOYED</text>
+    <text x="26" y="17" fill="#6EE7B7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.8">AI/ML • COMPUTER VISION • FORWARD DEPLOYED</text>
   </g>
 
   <!-- Right Decorative Terminal Dots -->
@@ -76,7 +76,7 @@
 
   <!-- Subtitle -->
   <text x="36" y="136" fill="url(#subGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="0.3">
-    Computer Vision &bull; Real-Time Anti-Spoofing &bull; Scaled Production Inference &bull; Edge AI
+    Computer Vision • Real-Time Anti-Spoofing • Scaled Production Inference • Edge AI
   </text>
 
   <!-- Metric Pills / Badges Strip at Bottom -->
@@ -99,10 +99,10 @@
       <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Real-Time Latency: <tspan fill="#A78BFA" font-weight="700">&lt; 200ms</tspan></text>
     </g>
 
-    <!-- Pill 4: Awards -->
+    <!-- Pill 4: Daily Requests -->
     <g transform="translate(550, 0)">
       <rect width="224" height="28" rx="8" fill="#131C31" stroke="#1E293B" stroke-width="1"/>
-      <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Recognition: <tspan fill="#FBBF24" font-weight="700">3x National Tech Awards</tspan></text>
+      <text x="12" y="18" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Daily Throughput: <tspan fill="#FBBF24" font-weight="700">400K+ API Requests</tspan></text>
     </g>
   </g>
 </svg>

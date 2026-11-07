@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Kondepudi Venkata Durga — AI/ML Engineer" />
+  <img src="https://raw.githubusercontent.com/venkatdurga/venkatdurga/main/header.svg" width="100%" alt="Kondepudi Venkata Durga — AI/ML Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Engineer%20%E2%80%94%20Computer%20Vision%20%26%20Forward%20Deployed;Real-Time%20Vision%20%26%20Anti-Spoofing%20Systems;High-Throughput%20OCR%20Pipelines%20%40%208.7M%2B%20Images;Sub-200ms%20Production%20Inference%20%26%20Edge%20APIs;3x%20National%20Hackathon%20Winner%20(SIH%20'24%20%26%20'23%2C%20DataX%20'25)&font=Fira%20Code&center=true&width=860&height=44&duration=3800&pause=1100&color=00D4AA&color2=60A5FA&vCenter=true&size=21&cursor=underscore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML%20Engineer%20%E2%80%94%20Computer%20Vision%20%26%20Forward%20Deployed;Real-Time%20Vision%20%26%20Anti-Spoofing%20Systems;High-Throughput%20OCR%20Pipelines%20%40%208.7M%2B%20Images;Sub-200ms%20Production%20Inference%20%26%20Edge%20APIs;High-Concurrency%20Vision%20Microservices%20%26%20Edge%20AI&font=Fira%20Code&center=true&width=860&height=44&duration=3800&pause=1100&color=00D4AA&color2=60A5FA&vCenter=true&size=21&cursor=underscore" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 ### ⚡ Above the Fold: Impact at a Glance
 
-| 👥 **Citizens Impacted** | 🖼️ **Images Processed** | 🚀 **Daily API Requests** | 🏆 **National Tech Awards** | ⏱️ **Production Latency** |
+| 👥 **Citizens Impacted** | 🖼️ **Images Processed** | 🚀 **Daily API Requests** | ⚡ **Architecture Focus** | ⏱️ **Production Latency** |
 | :---: | :---: | :---: | :---: | :---: |
-| **23M+** across 22 States | **8.7M+** at Scale | **400K+** Production TPS | **3x Winner** (SIH '24/'23, DataX) | **< 200ms** Real-Time Inference |
+| **23M+** across 22 States | **8.7M+** at Scale | **400K+** Production TPS | **High-Concurrency** Microservices | **< 200ms** Real-Time Inference |
 
 ---
 
